@@ -1,0 +1,37 @@
+# ==========================================
+# KiCad Git Ignore Rules
+# ==========================================
+
+# --- Temporary / Local files ---
+# These files store local window layouts, icon sizes, and workspace states.
+*.kicad_prl
+*.kicad_user
+*-bak
+*.bak
+*.gbrjob
+
+# --- Auto-generated Backup Files ---
+# KiCad makes periodic emergency saves. You don't need these tracked.
+*-backups/
+*.bck
+*.old
+
+# --- Lock files ---
+# Created when a file is open to prevent simultaneous editing conflicts.
+*.lck
+
+# --- Log files & Reports ---
+# Created during Electrical Rules Check (ERC) or Design Rules Check (DRC).
+*.rpt
+*.log
+
+# --- Output directories ---
+# It's best to ignore raw manufacturing files; generate them fresh when needed.
+[Bb]uild/
+[Oo]utput/
+[Gg]erbers/
+[Gg]erber/
+
+# Optional: If you want to commit your 3D shapes but exclude massive cached preview binaries
+# *.3shape_cache
+.history/
