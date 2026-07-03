@@ -525,7 +525,7 @@
       "idf": "",
       "netlist": "",
       "plot": "",
-      "specctra_dsn": "",
+      "specctra_dsn": "PLAIs.dsn",
       "vrml": ""
     },
     "page_layout_descr_file": ""
