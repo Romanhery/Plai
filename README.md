@@ -13,7 +13,7 @@ I made this so that I can learn PCB design, CAD, and Programming. It has upgrade
 ### PCB
 
 <blockquote>
-  #### Schematic
+  # Schematic
   <br />
   <img src="https://github.com/Romanhery/Plai/raw/main/Images/Cad_img.png" alt="Plai CAD Render" width="55%" />
   
