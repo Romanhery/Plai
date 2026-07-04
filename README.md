@@ -32,8 +32,13 @@ I made this so that I can learn PCB design, CAD, and Programming. It has upgrade
 
 # Firmware:
    <p>Made with <a href="https://github.com/KMKfw/kmk_firmware">KMK</a> firmware</p> 
+   <h3>Features</h3>
+   <li>Volume control if you twist the rotary encoder and if you press the encoder to mute</li>
+   <li>Screen displays cool message</li>
+   <li>They have macros for any shorcut you want (I have those right now for me)</li>
    <p align="center">
-  <img src="https://github.com/Romanhery/Plai/raw/main/Images/Cad_img.png" alt="Plai CAD Render" width="65%" />
+      Key mapout and screen display placeholder for Right now
+  <img src="https://github.com/Romanhery/Plai/blob/main/Images/Full.png" width="65%" />
    </p>
 
 # BOM:
