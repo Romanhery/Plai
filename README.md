@@ -15,7 +15,7 @@ I made this so that I can learn PCB design, CAD, and Programming. It has upgrade
    <p>It has 2 printed pieces to cover the electronics and house them.</p>
    
   <span style="vertical-align: middle; font-weight: bold; margin-right: 8px;">Made in Ki-CAD</span>
-  <img src="https://avatars.githubusercontent.com/u/3374914?s=200&v=4" alt="KiCad Logo" width="35" style="vertical-align: middle;" />
+  <img src="https://avatars.githubusercontent.com/u/3374914?s=200&v=4" alt="KiCad Logo" width="20" style="vertical-align: middle;" />
 
 # CAD:
    <p>Everything is held together by using 5 M3 Bolts and heat inserts.</p>
