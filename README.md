@@ -13,7 +13,7 @@ I made this so that I can learn PCB design, CAD, and Programming. It has upgrade
 # PCB:
    <p>Everything is held together by using 5 M3 Bolts and heat inserts.</p>
    <p>It has 2 printed pieces to cover the electronics and house them.</p>
-   <p>Made in </p><a href="(https://www.kicad.org/)">Ki-CAD</a>
+   <p>Made in </p><a href="https://www.kicad.org/">Ki-CAD</a>
 
 # CAD:
    <p>Everything is held together by using 5 M3 Bolts and heat inserts.</p>
