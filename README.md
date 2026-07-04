@@ -33,7 +33,7 @@ I made this so that I can learn PCB design, CAD, and Programming. It has upgrade
 # Firmware:
    <p>Made with <a href="https://github.com/KMKfw/kmk_firmware">KMK</a> firmware</p> 
 <p align="center">
-  <img src="https://github.com/Romanhery/Plai/raw/main/Images/Cad_img.png" alt="Plai CAD Render" width="65%" />
+  <img src="https://www.google.com/imgres?q=kmk%20Firmware%20Icon&imgurl=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F43353336%3Fs%3D200%26v%3D4&imgrefurl=https%3A%2F%2Fgithub.com%2FKMKfw&docid=QBOHe72Gy7ywUM&tbnid=zzd9XaY3syemeM&vet=12ahUKEwiN7t6hobiVAxXDDzQIHeBSDwwQnPAOegQIORAA..i&w=200&h=200&hcb=2&ved=2ahUKEwiN7t6hobiVAxXDDzQIHeBSDwwQnPAOegQIORAA" alt="Plai CAD Render" width="10%" />
 </p>
 
 
