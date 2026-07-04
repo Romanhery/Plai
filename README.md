@@ -11,6 +11,7 @@ I made this so that I can learn PCB design, CAD, and Programming. It has upgrade
    <li>EC11 Rotary encoder to change volume</li>
    <li>9 keys for the shorcuts and media control</li>
 </u>
+
 # PCB:
 
    <h2>Schematic</h2>
