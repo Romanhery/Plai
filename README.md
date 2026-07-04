@@ -13,7 +13,11 @@ I made this so that I can learn PCB design, CAD, and Programming. It has upgrade
 # PCB:
    <p>Everything is held together by using 5 M3 Bolts and heat inserts.</p>
    <p>It has 2 printed pieces to cover the electronics and house them.</p>
-   <p>Made in Ki-CAD</p>- ![KiCad](https://img.shields.io/badge/KiCad-4087C4?style=flat-square&logo=kicad&logoColor=white)
+   
+   <p align="center">
+      Made in Ki-CAD
+  <img src="https://avatars.githubusercontent.com/u/3374914?s=200&v=4" alt="Plai CAD Render" width="10%" />
+   </p>
 
 
 # CAD:
