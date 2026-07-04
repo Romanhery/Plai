@@ -14,11 +14,10 @@ I made this so that I can learn PCB design, CAD, and Programming. It has upgrade
    <p>Everything is held together by using 5 M3 Bolts and heat inserts.</p>
    <p>It has 2 printed pieces to cover the electronics and house them.</p>
    
-   <p align="center">
-      Made in Ki-CAD
-  <img src="https://avatars.githubusercontent.com/u/3374914?s=200&v=4" alt="Plai CAD Render" width="10%" />
-   </p>
-
+ <p align="center">
+  <span style="vertical-align: middle; font-weight: bold; margin-right: 8px;">Made in Ki-CAD</span>
+  <img src="https://avatars.githubusercontent.com/u/3374914?s=200&v=4" alt="KiCad Logo" width="35" style="vertical-align: middle;" />
+</p>
 
 # CAD:
    <p>Everything is held together by using 5 M3 Bolts and heat inserts.</p>
