@@ -11,8 +11,8 @@ I made this so that I can learn PCB design, CAD, and Programming. It has upgrade
    <li>9 keys for the shorcuts and media control</li>
 
 # CAD:
-   Everything is held together by using 5 M3 Bolts and heat inserts
-   It has 2 printed pieces to cover the electronics and house them
+   <p>Everything is held together by using 5 M3 Bolts and heat inserts.</p>
+   <p>It has 2 printed pieces to cover the electronics and house them.</p>
 <p align="center">
   <img src="https://github.com/Romanhery/Plai/raw/main/Images/Cad_img.png" alt="Plai CAD Render" width="65%" />
 </p>
