@@ -10,11 +10,20 @@ I made this so that I can learn PCB design, CAD, and Programming. It has upgrade
    <li>EC11 Rotary encoder to change volume</li>
    <li>9 keys for the shorcuts and media control</li>
 
-# PCB:
-   <h2>Schematic</h2>
-   <img src="https://github.com/Romanhery/Plai/raw/main/Images/Cad_img.png" alt="Plai CAD Render" width="65%" />
-   <p>It has 2 printed pieces to cover the electronics and house them.</p>
-   <p>Made in <a href="https://www.kicad.org/">Ki-CAD</a></p>
+### PCB
+
+<blockquote>
+  #### Schematic
+  <br />
+  <img src="https://github.com/Romanhery/Plai/raw/main/Images/Cad_img.png" alt="Plai CAD Render" width="55%" />
+  
+  <p>It has 2 printed pieces to cover the electronics and house them.</p>
+  
+  <p>
+    Made in <a href="https://www.kicad.org/">Ki-CAD</a> 
+    <img src="https://avatars.githubusercontent.com/u/3374914?s=200&v=4" alt="KiCad Logo" width="25" style="vertical-align: middle; margin-left: 4px;" />
+  </p>
+</blockquote>
    
 # CAD:
    <p>Everything is held together by using 5 M3 Bolts and heat inserts.</p>
