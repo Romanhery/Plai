@@ -36,6 +36,22 @@ I made this so that I can learn PCB design, CAD, and Programming. It has upgrade
   <img src="https://github.com/Romanhery/Plai/raw/main/Images/Cad_img.png" alt="Plai CAD Render" width="65%" />
    </p>
 
+# BOM:
+<p>Everything you need to make this macro pad is here!</p>
+<li>9x Cherry MX Switches</li>
+<li>9x DSA Keycaps</li>
+<li>5x M3x5x4 Heatset inserts</li>
+<li>4x M3x16mm SHCS Bolts</li>
+<li>2X M3x12mm SHCS Bolts</li>
+<li>9x 1N4148 DO-35 Diodes.</li>
+<li>1x 0.91" 128x32 OLED Display</li>
+<li>1x EC11 Rotary Encoder</li>
+<li>1x XIAO RP2040</li>
+<li>1x Case (2 printed parts)</li>
+
+
+
+
 
 ## Acknowledgements
 
