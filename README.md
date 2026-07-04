@@ -13,12 +13,11 @@ I made this so that I can learn PCB design, CAD, and Programming. It has upgrade
 # PCB:
 
    <h2>Schematic</h2>
-
-   <img src="https://github.com/Romanhery/Plai/raw/main/Images/Cad_img.png" alt="Plai CAD Render" width="65%" />
-
-   <p>It has 2 printed pieces to cover the electronics and house them.</p>
-
    <p>Made in <a href="https://www.kicad.org/">Ki-CAD</a></p> 
+
+   <img src="[https://github.com/Romanhery/Plai/raw/main/Images/Cad_img.png](https://github.com/Romanhery/Plai/blob/main/Images/schematic.png)" alt="Plai CAD Render" width="65%" />
+
+   
 
 
    
