@@ -13,9 +13,8 @@ I made this so that I can learn PCB design, CAD, and Programming. It has upgrade
 # PCB:
 
    <h2>Schematic</h2>
-   <p>Made in <a href="https://www.kicad.org/">Ki-CAD</a></p> 
-
    <img src="https://github.com/Romanhery/Plai/blob/main/Images/schematic.png" alt="Plai CAD Render" width="65%" />
+   <p>Made in <a href="https://www.kicad.org/">Ki-CAD</a></p> 
 
    
 
