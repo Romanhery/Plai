@@ -52,7 +52,7 @@ I made this so that I can learn PCB design, CAD, and Programming. It has upgrade
     <li>4x M3x16mm SHCS Bolts</li>
     <li>2X M3x12mm SHCS Bolts</li>
     <li>9x 1N4148 DO-35 Diodes.</li>
-    <li>1x 0.91" 128x32 OLED Display</li>
+    <li>1x 0.91" OLED Display</li>
     <li>1x EC11 Rotary Encoder</li>
     <li>1x XIAO RP2040</li>
     <li>1x Case (2 printed parts)</li>
