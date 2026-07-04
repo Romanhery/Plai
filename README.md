@@ -56,7 +56,7 @@ I made this so that I can learn PCB design, CAD, and Programming. It has upgrade
     <li>1x EC11 Rotary Encoder</li>
     <li>1x XIAO RP2040</li>
     <li>1x Case (2 printed parts)</li>
-    </u>
+</ul>
 
 
 
