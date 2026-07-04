@@ -6,10 +6,11 @@ Plai is a 3x3 key macropad with a rotary encoder, an OLED Display. It uses KMK f
 I made this so that I can learn PCB design, CAD, and Programming. It has upgraded and helped me with my experience.
 
 # Features:
+<u>
    <li>128x32 OLED Display to show a cool message</li>
    <li>EC11 Rotary encoder to change volume</li>
    <li>9 keys for the shorcuts and media control</li>
-
+</u>
 # PCB:
 
    <h2>Schematic</h2>
