@@ -10,6 +10,12 @@ I made this so that I can learn PCB design, CAD, and Programming. It has upgrade
    <li>EC11 Rotary encoder to change volume</li>
    <li>9 keys for the shorcuts and media control</li>
 
+# PCB:
+   <p>Everything is held together by using 5 M3 Bolts and heat inserts.</p>
+   <p>It has 2 printed pieces to cover the electronics and house them.</p>
+   <p>Made in Ki-CAD</p>- ![KiCad](https://img.shields.io/badge/KiCad-4087C4?style=flat-square&logo=kicad&logoColor=white)
+
+
 # CAD:
    <p>Everything is held together by using 5 M3 Bolts and heat inserts.</p>
    <p>It has 2 printed pieces to cover the electronics and house them.</p>
