@@ -14,7 +14,9 @@ I made this so that I can learn PCB design, CAD, and Programming. It has upgrade
     Everything is held together by using 5 M3 Bolts and heat inserts
 
    It has 2 printed pieces to cover the electronics and house them
-<img src="https://github.com/Romanhery/Plai/blob/main/Images/Cad_img.png?raw=true" alt="App Screenshot" width="500" />
+<p align="center">
+  <img src="https://github.com/Romanhery/Plai/raw/main/Images/Cad_img.png" alt="Plai CAD Render" width="65%" />
+</p>
 
 
 ## Acknowledgements
