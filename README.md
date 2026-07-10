@@ -55,7 +55,7 @@ I made this so that I can learn PCB design, CAD, and Programming. It has upgrade
     <li>1x EC11 Rotary Encoder</li>
     <li>1x XIAO RP2040</li>
     <li>1x Case (2 printed parts)</li>
-   <a href="https://github.com/KMKfw/kmk_firmware]https://docs.google.com/spreadsheets/d/1uIeMTGPOrdSAiFDxR4G393WpXhlTQVRrd_AwqsaPwl4/edit?gid=0#gid=0">BOM HERE WITH LINKS</a>
+   <a href="https://docs.google.com/spreadsheets/d/1uIeMTGPOrdSAiFDxR4G393WpXhlTQVRrd_AwqsaPwl4/edit?usp=sharing">BOM HERE WITH LINKS</a>
 </ul>
 
 
