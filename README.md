@@ -46,7 +46,8 @@ I made this so that I can learn PCB design, CAD, and Programming. It has upgrade
    <a href="https://docs.google.com/spreadsheets/d/1uIeMTGPOrdSAiFDxR4G393WpXhlTQVRrd_AwqsaPwl4/edit?usp=sharing">BOM HERE WITH LINKS</a>
 </ul>
 ## Acknowledgements
-- [Orpheuspad](https://github.com/hackclub/hackpad/tree/clean/extras/orpheuspad)
-- [Keybie](https://github.com/Mirai-09/Keybie-Hackpads)
+
+* [Orpheuspad](https://github.com/hackclub/hackpad/tree/main/cad/orpheuspad)
+* [Keybie](https://github.com/Mirai-09/Keybie-Hackpads)
 ## Authors
 - [@Romanhery](https://github.com/Romanhery)
