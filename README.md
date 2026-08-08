@@ -1,78 +1,52 @@
-<h1 align="center">Plai Hackpad</h1>
-
+# Plai-Hackpad
+Plai is a 3x3 key macropad with a rotary encoder, an OLED Display. It uses KMK firmware
+I made this so that I can learn PCB design, CAD, and Programming. It has upgraded and helped me with my experience.
+# Features:
+<ul>
+   <li>128x32 OLED Display to show a cool message</li>
+   <li>EC11 Rotary encoder to change volume</li>
+   <li>9 keys for the shorcuts and media control</li>
+</ul>
+# PCB:
+   <h2>Schematic</h2>
+   <img src="https://github.com/Romanhery/Plai/blob/main/Images/schematic.png" alt="Schematic" width="65%" />
+   <h2>PCB</h2>
+   <img src="https://github.com/Romanhery/Plai/blob/main/Images/PCB.png" alt="PCB" width="65%" />
+   <p>Made in <a href="https://www.kicad.org/">Ki-CAD</a></p> 
+   
+   
+# CAD:
+   <p>Everything is held together by using 5 M3 Bolts and heat inserts.</p>
+   <p>It has 2 printed pieces to cover the electronics and house them.</p>
+   <p>Made in Fusion 360</p>
 <p align="center">
-  A 3×3 key macropad with a rotary encoder and OLED display, running KMK firmware.
+  <img src="https://github.com/Romanhery/Plai/raw/main/Images/Cad_img.png" alt="Plai CAD Render" width="65%" />
 </p>
-
-<p align="center">
-  <img src="https://github.com/Romanhery/Plai/raw/main/Images/RENDERING.png" alt="Plai render" width="65%" />
-</p>
-
-Built to learn PCB design, CAD, and firmware programming — and it's taught me a lot along the way.
-
-## Features
-
-- 128×32 OLED display for status messages
-- EC11 rotary encoder for volume control
-- 9 keys for shortcuts and media control
-
-## PCB
-
-<p align="center">
-  <img src="https://github.com/Romanhery/Plai/raw/main/Images/schematic.png" alt="Schematic" width="65%" /><br/>
-  <sub>Schematic</sub>
-</p>
-
-<p align="center">
-  <img src="https://github.com/Romanhery/Plai/raw/main/Images/PCB.png" alt="PCB routing" width="65%" /><br/>
-  <sub>PCB routing</sub>
-</p>
-
-Designed in [KiCad](https://www.kicad.org/).
-
-## CAD
-
-Held together with 5× M3 bolts and heat-set inserts, with two printed pieces housing the electronics.
-
-Designed in Fusion 360.
-
-<p align="center">
-  <img src="https://github.com/Romanhery/Plai/raw/main/Images/Cad_img.png" alt="Plai CAD render" width="65%" />
-</p>
-
-## Firmware
-
-Built with [KMK](https://github.com/KMKfw/kmk_firmware).
-
-- Volume control via the rotary encoder — twist to adjust, press to mute
-- OLED displays a status message
-- Fully remappable macros (currently set up for my own shortcuts)
-
-<p align="center">
-  <img src="https://github.com/Romanhery/Plai/raw/main/Images/RENDERING.png" alt="Key mapout and display" width="65%" />
-</p>
-
-## BOM
-
-| Qty | Part |
-|---|---|
-| 9× | Cherry MX switches |
-| 9× | DSA keycaps |
-| 9× | 1N4148 DO-35 diodes |
-| 5× | M3×5×4 heat-set inserts |
-| 4× | M3×16mm SHCS bolts |
-| 1× | 0.91" OLED display |
-| 1× | EC11 rotary encoder |
-| 1× | Seeed XIAO RP2040 |
-| 1× | Case (2 printed parts) |
-
-📋 [Full BOM with purchase links](https://docs.google.com/spreadsheets/d/1uIeMTGPOrdSAiFDxR4G393WpXhlTQVRrd_AwqsaPwl4/edit?usp=sharing)
-
+# Firmware:
+   <p>Made with <a href="https://github.com/KMKfw/kmk_firmware">KMK</a> firmware</p> 
+   <h3>Features</h3>
+   <li>Volume control if you twist the rotary encoder and if you press the encoder to mute</li>
+   <li>Screen displays cool message</li>
+   <li>They have macros for any shorcut you want (I have those right now for me)</li>
+   <p align="center">
+  <img src="https://github.com/Romanhery/Plai/blob/main/Images/RENDERING.png" width="65%" />
+   </p>
+# BOM:
+<p>Everything you need to make this macro pad is here!</p>
+<ul>
+    <li>9x Cherry MX Switches</li>
+    <li>9x DSA Keycaps</li>
+    <li>5x M3x5x4 Heatset inserts</li>
+    <li>4x M3x16mm SHCS Bolts</li>
+    <li>9x 1N4148 DO-35 Diodes.</li>
+    <li>1x 0.91" OLED Display</li>
+    <li>1x EC11 Rotary Encoder</li>
+    <li>1x XIAO RP2040</li>
+    <li>1x Case (2 printed parts)</li>
+   <a href="https://docs.google.com/spreadsheets/d/1uIeMTGPOrdSAiFDxR4G393WpXhlTQVRrd_AwqsaPwl4/edit?usp=sharing">BOM HERE WITH LINKS</a>
+</ul>
 ## Acknowledgements
-
 - [Orpheuspad](https://github.com/hackclub/hackpad/tree/clean/extras/orpheuspad)
 - [Keybie](https://github.com/Mirai-09/Keybie-Hackpads)
-
 ## Authors
-
 - [@Romanhery](https://github.com/Romanhery)
