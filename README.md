@@ -1,28 +1,19 @@
-
 # Plai-Hackpad
-
 Plai is a 3x3 key macropad with a rotary encoder, an OLED Display. It uses KMK firmware
-
 I made this so that I can learn PCB design, CAD, and Programming. It has upgraded and helped me with my experience.
-
 # Features:
 <ul>
    <li>128x32 OLED Display to show a cool message</li>
    <li>EC11 Rotary encoder to change volume</li>
    <li>9 keys for the shorcuts and media control</li>
 </ul>
-
 # PCB:
-
    <h2>Schematic</h2>
    <img src="https://github.com/Romanhery/Plai/blob/main/Images/schematic.png" alt="Schematic" width="65%" />
    <h2>PCB</h2>
-   <img src="https://github.com/Romanhery/Plai/blob/main/Images/Routing_Pcb.png" alt="PCB" width="65%" />
+   <img src="https://github.com/Romanhery/Plai/blob/main/Images/PCB.png" alt="PCB" width="65%" />
    <p>Made in <a href="https://www.kicad.org/">Ki-CAD</a></p> 
-
    
-
-
    
 # CAD:
    <p>Everything is held together by using 5 M3 Bolts and heat inserts.</p>
@@ -31,7 +22,6 @@ I made this so that I can learn PCB design, CAD, and Programming. It has upgrade
 <p align="center">
   <img src="https://github.com/Romanhery/Plai/raw/main/Images/Cad_img.png" alt="Plai CAD Render" width="65%" />
 </p>
-
 # Firmware:
    <p>Made with <a href="https://github.com/KMKfw/kmk_firmware">KMK</a> firmware</p> 
    <h3>Features</h3>
@@ -39,10 +29,8 @@ I made this so that I can learn PCB design, CAD, and Programming. It has upgrade
    <li>Screen displays cool message</li>
    <li>They have macros for any shorcut you want (I have those right now for me)</li>
    <p align="center">
-      Key mapout and screen display placeholder for Right now
-  <img src="https://github.com/Romanhery/Plai/blob/main/Images/Full.png" width="65%" />
+  <img src="https://github.com/Romanhery/Plai/blob/main/Images/RENDERING.png" width="65%" />
    </p>
-
 # BOM:
 <p>Everything you need to make this macro pad is here!</p>
 <ul>
@@ -57,19 +45,8 @@ I made this so that I can learn PCB design, CAD, and Programming. It has upgrade
     <li>1x Case (2 printed parts)</li>
    <a href="https://docs.google.com/spreadsheets/d/1uIeMTGPOrdSAiFDxR4G393WpXhlTQVRrd_AwqsaPwl4/edit?usp=sharing">BOM HERE WITH LINKS</a>
 </ul>
-
-
-
-
 ## Acknowledgements
-
 - [Orpheuspad](https://github.com/hackclub/hackpad/tree/clean/extras/orpheuspad)
 - [Keybie](https://github.com/Mirai-09/Keybie-Hackpads)
-
-
 ## Authors
-
 - [@Romanhery](https://github.com/Romanhery)
-
-
-
